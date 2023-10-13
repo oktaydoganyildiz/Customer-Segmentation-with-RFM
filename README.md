@@ -4,7 +4,7 @@ FLO is a large online retail store of Turkey. FLO store, which includes shoes, b
 
 FLO, an online shoe store, wants to segment its customers and determine marketing strategies according to these segments. To this end, the behaviors of the customers will be defined and groups will be formed according to the clusters in these behaviors.
 
-![alt text]([http://url/to/img.png](https://avmdergi.com/wp-content/uploads/2016/05/flo-magaza.jpg))
+![flo-magaza](https://github.com/oktaydoganyildiz/Customer-Segmentation-with-RFM/assets/70387935/63b3f79c-2f88-410e-a132-3a9b3372172c)
 
 # Business Problem 👩‍💻
 FLO wants to divide its customers into segments and determine marketing strategies according to these segments. # For this purpose, customers' behaviors will be defined and groups will be created according to these behavioral clusters.
